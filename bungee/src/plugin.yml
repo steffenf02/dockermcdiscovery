@@ -1,0 +1,3 @@
+name: DockerDiscovery
+main: de.steffenf.dockerdiscovery.bungee.Main
+version: 1.0
